@@ -1,3 +1,6 @@
+/**
+ * DlistNode Class.
+ */
 public class DListNode {
     
     /**
